@@ -1,16 +1,19 @@
-<h2 align="left">Hey guys👋!</h2>
+<h2 align="left">👋 Hello, I'm Mohamed.</h2>
 
 ###
 
-<p align="left">Hey there! I'm Mohamed. I just recently graduated with a First class in BSc Computer Science and am currently seeking new opportunities. :)</p>
+<p align="left">I'm a Computer Science graduate with hands-on experience across software engineering, IT support, cloud infrastructure, and automation. I enjoy solving technical problems end-to-end whether that’s building full-stack applications, troubleshooting infrastructure issues, automating workflows, or supporting users in fast-paced environments.</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaithocine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### My experience includes:
+- Full-stack development using Python, Flask, Django, React, Vue.js, and PostgreSQL
+- IT support across Windows, macOS, and Linux environments
+- Infrastructure and systems projects involving Docker, Kubernetes, Terraform, Active Directory, and remote networking
+- Data analysis and visualisation using Python, Pandas, SQL, and Matplotlib
+- Agile team collaboration, stakeholder communication, and technical presentations
 
-<br clear="both">
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
@@ -45,15 +48,6 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="postgresql logo"  />
 </div>
-
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedaithocine.mohamedaithocine&"  />
-
-###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamedaithocine/" target="_blank">
